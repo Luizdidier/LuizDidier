@@ -1,5 +1,9 @@
 ## Hi there 👋, My name is Luiz Didier.
 
+- 🔭 I’m currently working on FullStack Developer on Pitang
+- 🌱 I’m currently learning javascript technologies
+- 😄 Pronouns: He/Him
+
 ##
 
 <div align="center">
@@ -23,8 +27,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizdidier&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-- 🔭 I’m currently working on FullStack Developer on Pitang
-- 🌱 I’m currently learning javascript technologies
-- 😄 Pronouns: He/Him
+
 
   
